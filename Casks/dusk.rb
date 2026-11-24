@@ -1,6 +1,6 @@
 cask "dusk" do
-  version "0.1.4"
-  sha256 "67c4368c6c5af54bfb7f70c1c43067aa4ba10d0fe4d37d108821464540d5a6e7"
+  version "0.1.5"
+  sha256 "240eb81e8802e0b33ff318eefd8ce45e9d40b530271ae8232cdd87691241f5d3"
 
   url "https://github.com/pierrefardel/dusk/releases/download/v#{version}/Dusk.zip"
   name "Dusk"
